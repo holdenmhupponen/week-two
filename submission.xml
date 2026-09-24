@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<aWMiESUGUySv49892mbQKU xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" id="aWMiESUGUySv49892mbQKU" version="3 (2026-09-24 14:19:20)">
+          <formhub>
+            <uuid>7dca9b8eecb34ebd9c09506d369199de</uuid>
+          </formhub>
+          <start>2026-09-24T10:19:33.780-04:00</start>
+          <end>2026-09-24T10:21:54.755-04:00</end>
+          <group_ew01f18>
+            <Burial_Ground_Name>Anti-AI Protest Graffiti</Burial_Ground_Name>
+            <Recording_date>2026-04-24</Recording_date>
+            <Recorder_Name>u/Amazing-Sun6321</Recorder_Name>
+            <Photograph type="file">ypc9d3jcfmvg1-10_20_17.webp</Photograph>
+            <Grave_monument_Coordinates>45.387103 -75.695741 0 0</Grave_monument_Coordinates>
+          </group_ew01f18>
+          <group_bi9gx35>
+            <Style>other</Style>
+            <Theme>political</Theme>
+            <Inscription>"Fuck AI SLOP"</Inscription>
+            <If_there_is_a_quote_nature_of_the_quote/>
+            <If_there_is_a_quote_source_of_the_quote/>
+            <Colours_Used>multi_coloured</Colours_Used>
+            <Type_of_Paint>Red</Type_of_Paint>
+          </group_bi9gx35>
+          <group_fm2vq82>
+            <Height_including_any_base_in_mm>1500</Height_including_any_base_in_mm>
+            <Width_excluding_any_base_in_mm>1000</Width_excluding_any_base_in_mm>
+            <Orientation_in_degrees>330</Orientation_in_degrees>
+          </group_fm2vq82>
+          <group_ac2yp19>
+            <Material_of_Surface>Concrete</Material_of_Surface>
+            <Texture_of_Surface>Gritty</Texture_of_Surface>
+          </group_ac2yp19>
+          <Other_Observations_about_the_monument>Painted over an existing piece of tunnel artwork, which may have been created with the help of generative A.I. due to the nature of the graffiti's message.</Other_Observations_about_the_monument>
+          <__version__>vNvmmtqR667mpmLjDQM56o</__version__>
+          <meta>
+            <instanceID>uuid:9294907e-d727-45c5-9e6a-aa1dfe4b9490</instanceID>
+          </meta>
+        </aWMiESUGUySv49892mbQKU>
